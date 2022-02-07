@@ -5,7 +5,7 @@
 
 ### Prequisites:
 - Python 3.10
-- Data for Analysis (CSV file): 
+- Data for Analysis (CSV file): \n
   https://raw.githubusercontent.com/adityachugh02/challenge-collecting-data/master/data_clean_2.csv
 - Third Party Libraries:
   - Pandas
