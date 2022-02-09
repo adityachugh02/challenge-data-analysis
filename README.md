@@ -12,11 +12,23 @@
   - Numpy
   - Matpotlib
   
- ## Data Cleaning
+## Data Cleaning
  
- 
-The data scrapped from Immoweb had multiple usleless data which was cleaned using `Pandas` library in order to have clean dataset for better analysis.
- 
- ![image](https://user-images.githubusercontent.com/96992159/152753105-74beb0e9-df26-4f13-86aa-8488b7e394f0.png)
- 
+The data scrapped from Immoweb had multiple usleless data which was cleaned using `Pandas` library in order to have clean dataset for better analysis. We figured out all null\empty values in data and replaced it with appropriate values. The replaced data was converted to new csv file `dataset-cleaned.csv`.
 
+## Data Analysis
+
+The cleaned data is analysed using `matplotlib` library. Our target variable for the analysis was `Price`. In our dataset of 13505 rows and 17 columns, how price is making a difference on other variables.
+
+## Data Interpretation
+
+After the analyzing the data, we could interpret different result based on the data.
+
+#### Outliners:
+
+![outliners](https://user-images.githubusercontent.com/96992159/153181019-af532386-73a5-43ea-8157-3bc1ddbb77ba.PNG)
+
+
+
+
+ 
