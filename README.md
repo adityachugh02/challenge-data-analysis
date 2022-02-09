@@ -25,8 +25,7 @@ The cleaned data is analysed using `matplotlib` library. Our target variable for
 After the analyzing the data, we could interpret different result based on the data which are as follows:
 
 #### Outliners:
-
-![outliners](https://user-images.githubusercontent.com/96992159/153189966-6286f046-7fca-47d6-b87c-080131fe3bfc.PNG)
+![outliners](https://user-images.githubusercontent.com/96992159/153191172-fc943e5f-ff48-446f-8a41-25cd799fe487.PNG)
 ![145](https://user-images.githubusercontent.com/96992159/153190027-8c0c6011-2cf8-41dc-97c4-c64ca8bc54b8.PNG)
 
  Note: The red circled are the extreme values in data due to wrong input data or data is about different property type(i.e whole appartment)
