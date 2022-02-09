@@ -8,10 +8,10 @@
 - Data for Analysis (CSV file): 
   https://raw.githubusercontent.com/adityachugh02/challenge-collecting-data/master/data_clean_2.csv
 - Third Party Libraries:
-  - Pandas
-  - Numpy
-  - Matpotlib
-  
+  - Pandas 0.23.4
+  - Numpy Version 1.13.1
+  - Matpotlib Version 2.0.2
+  - Seaborn Version 0.8.1
 ## Data Cleaning
  
 The data scrapped from Immoweb had multiple usleless data which was cleaned using `Pandas` library in order to have clean dataset for better analysis. We figured out all null\empty values in data and replaced it with appropriate values. The replaced data was converted to new csv file `dataset-cleaned.csv`.
@@ -22,12 +22,24 @@ The cleaned data is analysed using `matplotlib` library. Our target variable for
 
 ## Data Interpretation
 
-After the analyzing the data, we could interpret different result based on the data.
+After the analyzing the data, we could interpret different result based on the data which are as follows:
 
 #### Outliners:
 
-![outliners](https://user-images.githubusercontent.com/96992159/153181019-af532386-73a5-43ea-8157-3bc1ddbb77ba.PNG)
+![outliners](https://user-images.githubusercontent.com/96992159/153189966-6286f046-7fca-47d6-b87c-080131fe3bfc.PNG)
+![145](https://user-images.githubusercontent.com/96992159/153190027-8c0c6011-2cf8-41dc-97c4-c64ca8bc54b8.PNG)
 
+ Note: The red circled are the extreme values in data due to wrong input data or data is about different property type(i.e whole appartment)
+
+#### Detailed Informations:
+
+Most expensive area in Belgium is '8300 Knokke-Heis' with avegage price per square metre is 11647
+Most expensive area in Wallonia is ' 5541 Hasriere-par-dela' with avegage price per square metre is 
+Most expensive area in Flanders is '8300 Knokke-Heist' with avegage price per square metre is 11647
+
+Least expensive area in Belgium is '6592 Monceau-Imbrechies' with avegage price per square metre is 173.7
+Least expensive area in Wallonia is '6592 Monceau-Imbrechies'  with avegage price per square metre is 173.7 
+Least expensive area in Flanders is '8953 Wijtschate'  with avegage price per square metre is 322.6
 
 
 
