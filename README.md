@@ -32,13 +32,13 @@ After the analyzing the data, we could interpret different result based on the d
 
 #### Detailed Informations:
 
--Most expensive area in Belgium is '8300 Knokke-Heis' with avegage price per square metre is 11647.
--Most expensive area in Wallonia is ' 5541 Hasriere-par-dela' with avegage price per square metre is 320. 
--Most expensive area in Flanders is '8300 Knokke-Heist' with avegage price per square metre is 11647.
+- Most expensive area in Belgium is '8300 Knokke-Heis' with avegage price per square metre is 11647.
+- Most expensive area in Wallonia is ' 5541 Hasriere-par-dela' with avegage price per square metre is 320. 
+- Most expensive area in Flanders is '8300 Knokke-Heist' with avegage price per square metre is 11647.
 
--Least expensive area in Belgium is '6592 Monceau-Imbrechies' with avegage price per square metre is 173.7.
--Least expensive area in Wallonia is '6592 Monceau-Imbrechies'  with avegage price per square metre is 173.7. 
--Least expensive area in Flanders is '8953 Wijtschate'  with avegage price per square metre is 322.6.
+- Least expensive area in Belgium is '6592 Monceau-Imbrechies' with avegage price per square metre is 173.7.
+- Least expensive area in Wallonia is '6592 Monceau-Imbrechies'  with avegage price per square metre is 173.7. 
+- Least expensive area in Flanders is '8953 Wijtschate'  with avegage price per square metre is 322.6.
 
 
 
